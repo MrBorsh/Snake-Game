@@ -102,4 +102,3 @@ function collision(head, array) {
 }
 
 highScoreElement.innerText = highScore;
-
